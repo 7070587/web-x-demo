@@ -1,0 +1,13 @@
+{
+    "tab": {
+        "title": "Web X Demo"
+    },
+    "logo": {
+        "filename": "logo.png",
+        "title": "Web X Demo"
+    },
+    "copyright": "copyright © Advantech Solution 2021",
+    "showPageName": true,
+    "showI18nKey": true,
+    "i18nMode": ""
+}
